@@ -1,0 +1,29 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 125px;
+    background-color: #D9D9D9;
+    color: red;
+    font-size: 25px;
+}
+
+.top {
+    margin-top: 50px;
+}
+
+.end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.between {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bottom {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
